@@ -22,5 +22,8 @@
   "license": "MIT",
   "devDependencies": {
     "puppeteer": "^3.0.4"
+  },
+  "dependencies": {
+    "flow-remove-types": "^2.125.1"
   }
 }

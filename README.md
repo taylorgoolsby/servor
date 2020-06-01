@@ -1,5 +1,7 @@
 # Servør
 
+## This fork uses `flow-remove-types` to allow servor to process flow annotated files.
+
 > A dependency free dev server for modern web application development
 
 A very compact but capable static file server with https, live reloading, gzip and other useful features to support modern web app development on localhost and over a local network. The motivation here was to write a package from the ground up with no dependencies; using only native, node and browser APIs to do some specific tasks with minimal code.
